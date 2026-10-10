@@ -1,0 +1,240 @@
+{
+  "tiers": {
+    "budget": {
+      "name": "Budget Sightseeing",
+      "cost_per_person_per_day": 400,
+      "description": "Self-guided walking tours, public heritage monuments, municipal botanical parks, lake promenades, and viewpoint sunsets.",
+      "included_style": "Standard entry tickets, museum passes, and self-guided exploration."
+    },
+    "standard": {
+      "name": "Standard Guided & Curated",
+      "cost_per_person_per_day": 1100,
+      "description": "Certified local storyteller guides, priority monument access, heritage boat cruises, plantation tastings, and nature reserve entry.",
+      "included_style": "Guided walking tours, boat safaris, entry passes, and curated cultural shows."
+    },
+    "premium": {
+      "name": "Premium & VIP Adventure",
+      "cost_per_person_per_day": 2800,
+      "description": "Private 4x4 off-road jeep excursions, white-water rafting VIP gear, private sunset catamaran sails, private palace salon access, or bespoke tea tastings.",
+      "included_style": "Private specialized adventure guides, exclusive permits, private charters, and adventure sports."
+    }
+  },
+  "destination_catalog": {
+    "ooty": [
+      {
+        "name": "Nilgiri Mountain Toy Train Heritage Experience",
+        "tier": "standard",
+        "approx_cost": 600,
+        "category": "Heritage & Scenic",
+        "duration_hours": 3.5,
+        "description": "UNESCO World Heritage cog-wheel railway journey through dramatic tunnels and misty ravines."
+      },
+      {
+        "name": "Government Botanical Gardens & Rose Garden Stroll",
+        "tier": "budget",
+        "approx_cost": 250,
+        "category": "Nature & Leisure",
+        "duration_hours": 2,
+        "description": "Expansive 55-acre terraced garden featuring over 650 rare botanical species and fossil tree trunk."
+      },
+      {
+        "name": "Doddabetta Peak & Tea Factory Experience",
+        "tier": "standard",
+        "approx_cost": 500,
+        "category": "Scenic & Culture",
+        "duration_hours": 3,
+        "description": "Highest point in Nilgiris offering telescope house views, followed by live CTC tea manufacturing and tasting."
+      },
+      {
+        "name": "Private Nilgiri Forest Jeep Safari & Avalanche Lake",
+        "tier": "premium",
+        "approx_cost": 2800,
+        "category": "Adventure & Eco",
+        "duration_hours": 5,
+        "description": "Exclusive deep-forest safari through restricted sanctuary reserves, pristine trout waters, and shola forests."
+      }
+    ],
+    "coorg": [
+      {
+        "name": "Abbey Falls & Coffee Estate Walking Tour",
+        "tier": "budget",
+        "approx_cost": 300,
+        "category": "Nature",
+        "duration_hours": 2.5,
+        "description": "Walk among cardamom and pepper vines leading to a scenic hanging bridge fronting the roaring cascades."
+      },
+      {
+        "name": "Dubare Elephant Camp River Crossing & Interaction",
+        "tier": "standard",
+        "approx_cost": 900,
+        "category": "Wildlife & River",
+        "duration_hours": 3.5,
+        "description": "Cross the Kaveri river by boat to observe elephant bathing, grooming, and learn about wildlife conservation."
+      },
+      {
+        "name": "Mandalpatti 4x4 Off-Road Jeep Expedition",
+        "tier": "premium",
+        "approx_cost": 2700,
+        "category": "Adventure",
+        "duration_hours": 4,
+        "description": "Thrilling 4x4 off-road climb through rugged mist-covered grasslands to the cloud-touching Mandalpatti ridge."
+      }
+    ],
+    "mysuru": [
+      {
+        "name": "Mysuru Royal Palace Grand Tour & Illumination",
+        "tier": "standard",
+        "approx_cost": 750,
+        "category": "Heritage & Architecture",
+        "duration_hours": 3,
+        "description": "Explore the Golden Throne chamber, Durbar Hall, Kalyana Mantapa, and witness 100,000 bulbs illuminating the palace facade."
+      },
+      {
+        "name": "Devaraja Heritage Bazaar & Chamundi Hill Walk",
+        "tier": "budget",
+        "approx_cost": 300,
+        "category": "Culture & Spiritual",
+        "duration_hours": 3,
+        "description": "Vibrant aromatic market stalls of flowers and incense, followed by panoramic city views from Chamundi Hill."
+      },
+      {
+        "name": "Royal Heritage Chariot & Private Palace Curator Walk",
+        "tier": "premium",
+        "approx_cost": 2500,
+        "category": "Exclusive Heritage",
+        "duration_hours": 4,
+        "description": "Private curator-led access through private royal archives and vintage carriage collections."
+      }
+    ],
+    "pondicherry": [
+      {
+        "name": "French White Town Heritage Architectural Cycle Tour",
+        "tier": "budget",
+        "approx_cost": 400,
+        "category": "Culture & Architecture",
+        "duration_hours": 2.5,
+        "description": "Pedal down bougainvillea-lined French colonial streets, yellow mustard facades, and Alliance Francaise."
+      },
+      {
+        "name": "Auroville Matrimandir Conscious Walk & Garden Meditation",
+        "tier": "standard",
+        "approx_cost": 850,
+        "category": "Spiritual & Philosophy",
+        "duration_hours": 4,
+        "description": "Visit the golden spherical geodesic dome, learn about sustainable experimental town planning, and silent concentration."
+      },
+      {
+        "name": "Paradise Beach Private Catamaran & Scuba Discovery",
+        "tier": "premium",
+        "approx_cost": 3200,
+        "category": "Coastal Adventure",
+        "duration_hours": 4,
+        "description": "Private motorboat into the Chunnambar backwaters and open sea catamaran adventure with certified marine dive masters."
+      }
+    ],
+    "munnar": [
+      {
+        "name": "Eravikulam National Park Nilgiri Tahr Sanctuary",
+        "tier": "standard",
+        "approx_cost": 950,
+        "category": "Wildlife & High Altitude",
+        "duration_hours": 4,
+        "description": "High altitude grasslands home to the endangered mountain goat, overlooking Anamudi peak."
+      },
+      {
+        "name": "Mattupetty Dam Boating & Echo Point",
+        "tier": "budget",
+        "approx_cost": 350,
+        "category": "Scenic & Lakes",
+        "duration_hours": 2.5,
+        "description": "Picturesque masonry gravity dam surrounded by rolling tea plantations and acoustic echo valleys."
+      },
+      {
+        "name": "Kolukkumalai Sunrise 4x4 Jeep Expedition",
+        "tier": "premium",
+        "approx_cost": 3000,
+        "category": "Adventure & Sunrise",
+        "duration_hours": 5,
+        "description": "Pre-dawn rugged 4x4 jeep ascent to the world's highest tea estate (7,900 ft) for a breathtaking sea of clouds sunrise."
+      }
+    ],
+    "jaipur": [
+      {
+        "name": "Amber Fort Guided History & Sheesh Mahal Walk",
+        "tier": "standard",
+        "approx_cost": 800,
+        "category": "Heritage & Forts",
+        "duration_hours": 3.5,
+        "description": "Regal hilltop fortress featuring mirror-inlaid palaces, Maota lake views, and Rajput architecture."
+      },
+      {
+        "name": "Hawa Mahal, Jantar Mantar & Old City Walled Walk",
+        "tier": "budget",
+        "approx_cost": 400,
+        "category": "Culture & Astronomy",
+        "duration_hours": 3,
+        "description": "Iconic honeycomb facade of winds and ancient UNESCO astronomical observatory stone instruments."
+      },
+      {
+        "name": "Hot Air Balloon Flight & Royal Nahargarh Sunset",
+        "tier": "premium",
+        "approx_cost": 3500,
+        "category": "Aviation & Sunset",
+        "duration_hours": 3,
+        "description": "Sunrise aerial hot-air balloon drift over rugged Aravalli ridges and royal palace ramparts."
+      }
+    ],
+    "goa": [
+      {
+        "name": "Fontainhas Latin Quarter Guided Heritage Walk",
+        "tier": "budget",
+        "approx_cost": 350,
+        "category": "Heritage & Photography",
+        "duration_hours": 2.5,
+        "description": "Walk among Portuguese heritage villas, colorful tiled verandas, art galleries, and historic bakeries."
+      },
+      {
+        "name": "Mandovi River Sunset Cruise & Goan Folk Dance",
+        "tier": "standard",
+        "approx_cost": 950,
+        "category": "Cruise & Entertainment",
+        "duration_hours": 2,
+        "description": "Evening catamaran cruise along the Mandovi river with live Dekhnni & Fugdi cultural performances."
+      },
+      {
+        "name": "Dudhsagar Waterfalls Jungle Jeep Safari & Spice Plantation",
+        "tier": "premium",
+        "approx_cost": 3100,
+        "category": "Adventure & Nature",
+        "duration_hours": 6,
+        "description": "Open 4x4 off-road safari through Mollem National Park rivers, natural pool swims at Dudhsagar, and buffet lunch."
+      }
+    ],
+    "rishikesh": [
+      {
+        "name": "Triveni Ghat Evening Ganga Aarti & Sacred Ceremony",
+        "tier": "budget",
+        "approx_cost": 250,
+        "category": "Spiritual & Ceremony",
+        "duration_hours": 2,
+        "description": "Atmospheric evening prayer with rhythmic Vedic chants, brass lamps, and floating leaf diyas on the Ganges."
+      },
+      {
+        "name": "White Water River Rafting (16 km Shivpuri to Rishikesh)",
+        "tier": "standard",
+        "approx_cost": 1200,
+        "category": "Adventure & Rapids",
+        "duration_hours": 3.5,
+        "description": "Thrilling Grade III & IV rapids (Roller Coaster, Golf Course) with certified river rescue kayakers and cliff jump."
+      },
+      {
+        "name": "Himalayan Sunrise Trek to Kunjapuri Temple & Downhill Cycle",
+        "tier": "premium",
+        "approx_cost": 2800,
+        "category": "High Trek & Adventure",
+        "duration_hours": 5,
+        "description": "Early morning drive to 1,650m ridge temple for 360-degree snow-capped Himalayan panoramas, followed by downhill mountain biking."
+      }
+    ]
+  }
+}

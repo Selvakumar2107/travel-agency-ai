@@ -1,0 +1,226 @@
+[
+  {
+    "id": "ooty",
+    "name": "Ooty",
+    "state": "Tamil Nadu",
+    "type": "Hill Station",
+    "tagline": "Queen of Nilgiri Hills with lush tea gardens and misty peaks",
+    "best_season": "October to June",
+    "suitable_interests": ["Nature", "Relaxation", "Photography", "Family", "Trekking"],
+    "image_url": "https://images.unsplash.com/photo-1589182373726-e4f658ab50f0?auto=format&fit=crop&w=1000&q=80",
+    "indicative_budget_range": "₹3,500 – ₹18,000",
+    "sample_intercity_transport_estimate": {
+      "shared": 900,
+      "standard": 2400,
+      "private": 6500
+    },
+    "sample_local_transport_estimate_per_day": {
+      "shared": 350,
+      "standard": 1100,
+      "private": 2400
+    },
+    "suggested_activities": [
+      "Botanical Gardens Walk",
+      "Nilgiri Mountain Toy Train Ride",
+      "Ooty Lake Boating",
+      "Doddabetta Peak Viewpoint",
+      "Tea Factory and Museum Tour"
+    ]
+  },
+  {
+    "id": "coorg",
+    "name": "Coorg",
+    "state": "Karnataka",
+    "type": "Coffee & Hill Retreat",
+    "tagline": "Scotland of India with aromatic coffee plantations and waterfalls",
+    "best_season": "September to May",
+    "suitable_interests": ["Nature", "Adventure", "Coffee & Food", "Relaxation", "Trekking"],
+    "image_url": "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?auto=format&fit=crop&w=1000&q=80",
+    "indicative_budget_range": "₹3,800 – ₹20,000",
+    "sample_intercity_transport_estimate": {
+      "shared": 800,
+      "standard": 2200,
+      "private": 5800
+    },
+    "sample_local_transport_estimate_per_day": {
+      "shared": 400,
+      "standard": 1200,
+      "private": 2500
+    },
+    "suggested_activities": [
+      "Abbey Falls Nature Trail",
+      "Coffee Plantation Guided Tour",
+      "Dubare Elephant Camp Experience",
+      "Raja's Seat Sunset Pavilion",
+      "Mandalpatti 4x4 Jeep Safari"
+    ]
+  },
+  {
+    "id": "mysuru",
+    "name": "Mysuru",
+    "state": "Karnataka",
+    "type": "Heritage & Culture",
+    "tagline": "City of Palaces, royal heritage, and exquisite silk and sandalwood",
+    "best_season": "October to March",
+    "suitable_interests": ["Heritage", "Culture", "Family", "Architecture", "Photography"],
+    "image_url": "https://images.unsplash.com/photo-1600100397608-f010f443b7d1?auto=format&fit=crop&w=1000&q=80",
+    "indicative_budget_range": "₹3,000 – ₹14,000",
+    "sample_intercity_transport_estimate": {
+      "shared": 500,
+      "standard": 1400,
+      "private": 4200
+    },
+    "sample_local_transport_estimate_per_day": {
+      "shared": 300,
+      "standard": 900,
+      "private": 2000
+    },
+    "suggested_activities": [
+      "Mysore Royal Palace Illumination Tour",
+      "Chamundi Hill Temple Ascent",
+      "Brindavan Gardens Musical Fountain",
+      "Devaraja Heritage Spice & Flower Market",
+      "St. Philomena's Cathedral Visit"
+    ]
+  },
+  {
+    "id": "pondicherry",
+    "name": "Pondicherry",
+    "state": "Puducherry (UT)",
+    "type": "Coastal & French Colonial",
+    "tagline": "Quaint French quarter, serene promenades, and bohemian cafes",
+    "best_season": "October to March",
+    "suitable_interests": ["Culture", "Beach", "Food & Cafes", "Relaxation", "Photography"],
+    "image_url": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1000&q=80",
+    "indicative_budget_range": "₹3,500 – ₹16,000",
+    "sample_intercity_transport_estimate": {
+      "shared": 700,
+      "standard": 1900,
+      "private": 5200
+    },
+    "sample_local_transport_estimate_per_day": {
+      "shared": 350,
+      "standard": 950,
+      "private": 2100
+    },
+    "suggested_activities": [
+      "French Quarter Heritage Bicycle Tour",
+      "Promenade Beach Sunrise Stroll",
+      "Auroville Matrimandir Visitors Center",
+      "Paradise Beach Ferry Excursion",
+      "Cafe Hopping & French Bakery Tasting"
+    ]
+  },
+  {
+    "id": "munnar",
+    "name": "Munnar",
+    "state": "Kerala",
+    "type": "Tea Highlands",
+    "tagline": "Verdant rolling tea estates, cool mountain breeze, and cascading falls",
+    "best_season": "September to April",
+    "suitable_interests": ["Nature", "Relaxation", "Photography", "Trekking", "Wildlife"],
+    "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1000&q=80",
+    "indicative_budget_range": "₹3,900 – ₹19,000",
+    "sample_intercity_transport_estimate": {
+      "shared": 950,
+      "standard": 2600,
+      "private": 6800
+    },
+    "sample_local_transport_estimate_per_day": {
+      "shared": 450,
+      "standard": 1300,
+      "private": 2700
+    },
+    "suggested_activities": [
+      "Eravikulam National Park Nilgiri Tahr Walk",
+      "Kolukkumalai Sunrise Jeep Experience",
+      "Mattupetty Dam Speedboat Cruise",
+      "Tea Estate Heritage Tasting Tour",
+      "Attukal Waterfalls Viewpoint Trek"
+    ]
+  },
+  {
+    "id": "jaipur",
+    "name": "Jaipur",
+    "state": "Rajasthan",
+    "type": "Royal Heritage & Palaces",
+    "tagline": "The Pink City of majestic fortresses, regal palaces, and vibrant bazaars",
+    "best_season": "October to March",
+    "suitable_interests": ["Heritage", "Culture", "Photography", "Shopping", "Food & Cafes"],
+    "image_url": "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=1000&q=80",
+    "indicative_budget_range": "₹4,200 – ₹22,000",
+    "sample_intercity_transport_estimate": {
+      "shared": 1100,
+      "standard": 3200,
+      "private": 7500
+    },
+    "sample_local_transport_estimate_per_day": {
+      "shared": 400,
+      "standard": 1200,
+      "private": 2600
+    },
+    "suggested_activities": [
+      "Amber Fort & Stepwell Exploration",
+      "Hawa Mahal & City Palace Royal Tour",
+      "Nahargarh Fort Sunset Panorama",
+      "Johari Bazaar Gem & Textile Walk",
+      "Chokhi Dhani Traditional Rajasthani Village Evening"
+    ]
+  },
+  {
+    "id": "goa",
+    "name": "Goa",
+    "state": "Goa",
+    "type": "Beaches & Coastal Leisure",
+    "tagline": "Golden sands, Portuguese colonial charm, water sports, and sunset cruises",
+    "best_season": "November to April",
+    "suitable_interests": ["Beach", "Adventure", "Food & Cafes", "Nightlife", "Relaxation"],
+    "image_url": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=1000&q=80",
+    "indicative_budget_range": "₹4,500 – ₹24,000",
+    "sample_intercity_transport_estimate": {
+      "shared": 1200,
+      "standard": 3600,
+      "private": 8200
+    },
+    "sample_local_transport_estimate_per_day": {
+      "shared": 500,
+      "standard": 1400,
+      "private": 3000
+    },
+    "suggested_activities": [
+      "Palolem & Agonda Beach Relaxation",
+      "Old Goa Basilica & Fontainhas Latin Quarter Walk",
+      "Mandovi River Sunset Catamaran Cruise",
+      "Water Sports at Calangute & Baga",
+      "Dudhsagar Waterfalls Jeep Expedition"
+    ]
+  },
+  {
+    "id": "rishikesh",
+    "name": "Rishikesh",
+    "state": "Uttarakhand",
+    "type": "Spiritual & Adventure Capital",
+    "tagline": "Ganges river rafting, Himalayan foothills, yoga ashrams, and Ganga Aarti",
+    "best_season": "September to May",
+    "suitable_interests": ["Adventure", "Spiritual", "Trekking", "Nature", "Relaxation"],
+    "image_url": "https://images.unsplash.com/photo-1603766806347-54cdf3745953?auto=format&fit=crop&w=1000&q=80",
+    "indicative_budget_range": "₹3,800 – ₹18,000",
+    "sample_intercity_transport_estimate": {
+      "shared": 1000,
+      "standard": 3000,
+      "private": 7200
+    },
+    "sample_local_transport_estimate_per_day": {
+      "shared": 350,
+      "standard": 1000,
+      "private": 2300
+    },
+    "suggested_activities": [
+      "White Water Rafting on the Ganges",
+      "Triveni Ghat Evening Ganga Aarti",
+      "Beatles Ashram (Chaurasi Kutia) Tour",
+      "Kunjapuri Temple Himalayan Sunrise Trek",
+      "Bungee Jumping & Flying Fox Experience"
+    ]
+  }
+]

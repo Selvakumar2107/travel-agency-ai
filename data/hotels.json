@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ooty-budget-1",
+    "destination_id": "ooty",
+    "name": "Pine Haven Guest Lodge",
+    "tier": "budget",
+    "price_per_night": 1400,
+    "rating": 4.1,
+    "amenities": ["Free Wi-Fi", "Hot Water", "Tea/Coffee Maker", "Mountain View"],
+    "description": "Clean and cozy hill cottage close to Ooty railway station with basic warm hospitality."
+  },
+  {
+    "id": "ooty-standard-1",
+    "destination_id": "ooty",
+    "name": "Nilgiri Misty Valley Resort",
+    "tier": "standard",
+    "price_per_night": 3200,
+    "rating": 4.4,
+    "amenities": ["Buffet Breakfast", "Fireplace", "Garden", "Wi-Fi", "Room Service"],
+    "description": "Comfortable hillside resort overlooking private tea plantations with complimentary breakfast."
+  },
+  {
+    "id": "ooty-premium-1",
+    "destination_id": "ooty",
+    "name": "The Heritage Fernhill Palace",
+    "tier": "premium",
+    "price_per_night": 7200,
+    "rating": 4.8,
+    "amenities": ["Luxury Spa", "Gourmet Dining", "Valet Parking", "Colonial Suites", "Butler Service"],
+    "description": "Exquisite colonial-era heritage estate offering royal suites, landscaped lawns, and high-tea experiences."
+  },
+  {
+    "id": "coorg-budget-1",
+    "destination_id": "coorg",
+    "name": "Coffee Country Homestay",
+    "tier": "budget",
+    "price_per_night": 1500,
+    "rating": 4.2,
+    "amenities": ["Home Cooked Breakfast", "Hot Showers", "Estate Walks", "Wi-Fi"],
+    "description": "Family-run homestay nested inside a lush Robusta coffee estate with warm Kodava hospitality."
+  },
+  {
+    "id": "coorg-standard-1",
+    "destination_id": "coorg",
+    "name": "Spicewood Plantation Retreat",
+    "tier": "standard",
+    "price_per_night": 3500,
+    "rating": 4.5,
+    "amenities": ["Swimming Pool", "Plantation Tour", "Restaurant", "Wi-Fi", "Bonfire"],
+    "description": "Tranquil retreat featuring rustic cottages, an infinity pool facing the canopy, and estate treks."
+  },
+  {
+    "id": "coorg-premium-1",
+    "destination_id": "coorg",
+    "name": "Evolve Wilderness & Spa Reserve",
+    "tier": "premium",
+    "price_per_night": 8500,
+    "rating": 4.9,
+    "amenities": ["Private Pool Villas", "Ayurvedic Spa", "Fine Dining", "Forest Trails", "Concierge"],
+    "description": "Ultra-luxury sanctuary with private temperature-controlled plunge pools and rejuvenating spa rituals."
+  },
+  {
+    "id": "mysuru-budget-1",
+    "destination_id": "mysuru",
+    "name": "Palace Gate Comfort Inn",
+    "tier": "budget",
+    "price_per_night": 1200,
+    "rating": 4.0,
+    "amenities": ["Air Conditioning", "Wi-Fi", "24hr Reception", "Lift"],
+    "description": "Budget-friendly hotel located within walking distance of Mysore Palace and local markets."
+  },
+  {
+    "id": "mysuru-standard-1",
+    "destination_id": "mysuru",
+    "name": "Royal Orchid Metropole",
+    "tier": "standard",
+    "price_per_night": 2900,
+    "rating": 4.4,
+    "amenities": ["Courtyard Restaurant", "Swimming Pool", "Heritage Architecture", "Wi-Fi"],
+    "description": "Charming heritage property showcasing royal arches, tranquil courtyard dining, and contemporary comforts."
+  },
+  {
+    "id": "mysuru-premium-1",
+    "destination_id": "mysuru",
+    "name": "Lalitha Mahal Palace Grand",
+    "tier": "premium",
+    "price_per_night": 6800,
+    "rating": 4.7,
+    "amenities": ["Royal Banquet", "Marble Terraces", "Billiards Room", "Pool", "Chauffeur Service"],
+    "description": "Magnificent Italianate royal palace built by the Maharaja, offering regally appointed luxury suites."
+  },
+  {
+    "id": "pondicherry-budget-1",
+    "destination_id": "pondicherry",
+    "name": "Rue De La Paix Boutique Stay",
+    "tier": "budget",
+    "price_per_night": 1600,
+    "rating": 4.1,
+    "amenities": ["Bicycle Rental", "Wi-Fi", "Rooftop Terrace", "Air Conditioning"],
+    "description": "Minimalist, sunlit guesthouse located a short walk from Promenade Beach and heritage lanes."
+  },
+  {
+    "id": "pondicherry-standard-1",
+    "destination_id": "pondicherry",
+    "name": "Villa Shanti French Quarter",
+    "tier": "standard",
+    "price_per_night": 3800,
+    "rating": 4.6,
+    "amenities": ["Patio Cafe", "Art Deco Suites", "Wi-Fi", "Complimentary Breakfast"],
+    "description": "Restored 19th-century French townhouse featuring leafy courtyards and gourmet fusion dining."
+  },
+  {
+    "id": "pondicherry-premium-1",
+    "destination_id": "pondicherry",
+    "name": "Palais De Mahe Relais Resort",
+    "tier": "premium",
+    "price_per_night": 8200,
+    "rating": 4.8,
+    "amenities": ["Courtyard Swimming Pool", "Ayurvedic Center", "Rooftop Seafood Grill", "Luxury Linens"],
+    "description": "Grand French-colonial style mansion with stately pillars, deep verandas, and high-end coastal cuisine."
+  },
+  {
+    "id": "munnar-budget-1",
+    "destination_id": "munnar",
+    "name": "Green Valley Mist Inn",
+    "tier": "budget",
+    "price_per_night": 1400,
+    "rating": 4.0,
+    "amenities": ["Tea Garden View", "Hot Water", "Wi-Fi", "Tour Desk"],
+    "description": "Peaceful budget inn with panoramic views over the rolling Munnar tea valleys."
+  },
+  {
+    "id": "munnar-standard-1",
+    "destination_id": "munnar",
+    "name": "Tea County Hillside Resort",
+    "tier": "standard",
+    "price_per_night": 3400,
+    "rating": 4.5,
+    "amenities": ["Spa", "Multi-cuisine Restaurant", "Health Club", "Balcony Rooms"],
+    "description": "Perched between two tea hills, this KTDC-style resort provides serene balconies and nature trails."
+  },
+  {
+    "id": "munnar-premium-1",
+    "destination_id": "munnar",
+    "name": "The Panoramic Getaway & Cloud Spa",
+    "tier": "premium",
+    "price_per_night": 7900,
+    "rating": 4.8,
+    "amenities": ["Heated Rooftop Pool", "Helipad", "Fine Dining", "Hydrotherapy Spa"],
+    "description": "Spectacular luxury mountain resort with heated infinity pools overlooking misty tea slopes."
+  },
+  {
+    "id": "jaipur-budget-1",
+    "destination_id": "jaipur",
+    "name": "Hawa Mahal Heritage Inn",
+    "tier": "budget",
+    "price_per_night": 1300,
+    "rating": 4.1,
+    "amenities": ["Rooftop Cafe", "Wi-Fi", "Air Conditioning", "Folk Music Evenings"],
+    "description": "Traditional haveli-inspired budget hotel within easy reach of the walled city markets."
+  },
+  {
+    "id": "jaipur-standard-1",
+    "destination_id": "jaipur",
+    "name": "Alsisar Haveli Royal Residence",
+    "tier": "standard",
+    "price_per_night": 3600,
+    "rating": 4.5,
+    "amenities": ["Swimming Pool", "Carved Arches", "Courtyard Dining", "Bar"],
+    "description": "Authentic Rajput haveli with restored frescoes, antique chandeliers, and a serene outdoor pool."
+  },
+  {
+    "id": "jaipur-premium-1",
+    "destination_id": "jaipur",
+    "name": "Rambagh Palace Heritage Suites",
+    "tier": "premium",
+    "price_per_night": 9500,
+    "rating": 4.9,
+    "amenities": ["Royal Butler", "Peacock Gardens", "Jiva Spa", "Polo Bar", "Fine Dining"],
+    "description": "The Jewel of Jaipur, former residence of the Maharaja, providing unmatched royal opulence."
+  },
+  {
+    "id": "goa-budget-1",
+    "destination_id": "goa",
+    "name": "Ocean Breeze Beach Shacks & Rooms",
+    "tier": "budget",
+    "price_per_night": 1600,
+    "rating": 4.0,
+    "amenities": ["Beach Access", "Wi-Fi", "Bar & Cafe", "Bike Rentals"],
+    "description": "Vibrant beachside rooms just 100 meters from the surf, ideal for casual and budget travelers."
+  },
+  {
+    "id": "goa-standard-1",
+    "destination_id": "goa",
+    "name": "Sonesta Palms Coastal Resort",
+    "tier": "standard",
+    "price_per_night": 3900,
+    "rating": 4.4,
+    "amenities": ["2 Swimming Pools", "Poolside Bar", "Buffet Breakfast", "Lush Gardens"],
+    "description": "Portuguese-influenced coastal resort surrounded by lush palm groves and close to beaches."
+  },
+  {
+    "id": "goa-premium-1",
+    "destination_id": "goa",
+    "name": "The Leela Coastal Haven & Golf Club",
+    "tier": "premium",
+    "price_per_night": 9800,
+    "rating": 4.9,
+    "amenities": ["Private Beach", "12-Hole Golf", "Luxury Spa", "Multi-cuisine Restaurants", "Lagoon Suites"],
+    "description": "Sprawling 75-acre ultra-luxury beach resort set amidst lagoons, golf greens, and pristine coastline."
+  },
+  {
+    "id": "rishikesh-budget-1",
+    "destination_id": "rishikesh",
+    "name": "Ganga Waves Yoga & Travelers Hostel",
+    "tier": "budget",
+    "price_per_night": 1100,
+    "rating": 4.2,
+    "amenities": ["Yoga Shala", "River View Terrace", "Wi-Fi", "Cafe"],
+    "description": "Lively riverfront retreat popular with backpackers and yoga lovers, steps from Laxman Jhula."
+  },
+  {
+    "id": "rishikesh-standard-1",
+    "destination_id": "rishikesh",
+    "name": "Aloha on the Ganges Resort",
+    "tier": "standard",
+    "price_per_night": 3300,
+    "rating": 4.5,
+    "amenities": ["Infinity Pool overlooking Ganga", "Ayurvedic Spa", "Organic Cafe", "Wi-Fi"],
+    "description": "Scenic resort perched on the banks of the emerald Ganges, surrounded by forested Himalayan hills."
+  },
+  {
+    "id": "rishikesh-premium-1",
+    "destination_id": "rishikesh",
+    "name": "Ananda Himalayan Wellness Sanctuary",
+    "tier": "premium",
+    "price_per_night": 9200,
+    "rating": 4.9,
+    "amenities": ["World-Class Spa", "Vedic Meditation", "Gourmet Wellness Dining", "Valley View Suites"],
+    "description": "Internationally acclaimed destination spa and wellness sanctuary situated in the Maharaja's palace estate."
+  }
+]

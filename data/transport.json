@@ -1,0 +1,56 @@
+{
+  "tiers": {
+    "shared": {
+      "name": "Shared & Public Transit",
+      "description": "State/express buses, passenger/superfast trains, and local metro or shared autos. Economical and budget-friendly.",
+      "intercity_default_per_person": 900,
+      "local_default_per_person_per_day": 350
+    },
+    "standard": {
+      "name": "Standard Comfort (AC Cab & Train)",
+      "description": "AC 3-Tier/Chair train, app-based ride cabs, and metered autos. Well-balanced between comfort and affordability.",
+      "intercity_default_per_person": 2400,
+      "local_default_per_person_per_day": 1100
+    },
+    "private": {
+      "name": "Private Dedicated Vehicle / Express",
+      "description": "Dedicated private chauffeur-driven AC sedan or SUV for seamless door-to-door travel and sightseeing flexibility.",
+      "intercity_default_per_person": 6200,
+      "local_default_per_person_per_day": 2500
+    }
+  },
+  "intercity_modes": [
+    {
+      "mode": "Train / Express Bus",
+      "tier": "shared",
+      "notes": "Comfortable sleeper or AC chair class options."
+    },
+    {
+      "mode": "Fast Express AC Train / Intercity Cab",
+      "tier": "standard",
+      "notes": "Direct point-to-point AC journey with minimal transfers."
+    },
+    {
+      "mode": "Private Chauffeur Car / Flight + Cab",
+      "tier": "private",
+      "notes": "Dedicated private transfer with luggage assistance and direct pickup."
+    }
+  ],
+  "local_modes": [
+    {
+      "mode": "Local Shared Auto & Bus",
+      "tier": "shared",
+      "notes": "Ideal for budget exploration along central routes."
+    },
+    {
+      "mode": "App-Based On-Demand Cabs & Autos",
+      "tier": "standard",
+      "notes": "Convenient on-call city exploration."
+    },
+    {
+      "mode": "Full-Day Dedicated Chauffeur Vehicle",
+      "tier": "private",
+      "notes": "Vehicle on disposal for whole day tours and custom stops."
+    }
+  ]
+}

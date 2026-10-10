@@ -1,0 +1,49 @@
+{
+  "tiers": {
+    "economy": {
+      "name": "Economy Food Plan",
+      "cost_per_person_per_day": 600,
+      "description": "Authentic local eateries, traditional thali joints, street food stalls, and bakeries. Wholesome regional flavors at modest rates.",
+      "sample_meals": {
+        "breakfast": "South Indian tiffin, idli/dosa, poha or parathas with chai (INR 120)",
+        "lunch": "Vegetarian/regional mini thali or rice plate (INR 250)",
+        "dinner": "Local diner meal, biryani bowl or roti curry (INR 230)"
+      },
+      "saving_tips": [
+        "Opt for breakfast included at accommodation",
+        "Dine where locals eat for authentic dishes at half tourist prices",
+        "Carry refillable water bottles and dry fruit snacks"
+      ]
+    },
+    "standard": {
+      "name": "Standard Dining Plan",
+      "cost_per_person_per_day": 1300,
+      "description": "Mix of cozy family cafes, air-conditioned casual multi-cuisine restaurants, and local specialty bistros.",
+      "sample_meals": {
+        "breakfast": "Cafe continental breakfast or full traditional breakfast platter (INR 250)",
+        "lunch": "Multi-cuisine seated lunch with drinks or dessert (INR 550)",
+        "dinner": "Specialty dining at popular heritage or scenic restaurants (INR 500)"
+      },
+      "saving_tips": [
+        "Take advantage of set lunch menus and combo platters",
+        "Reserve specialty dinners for 1 or 2 special evenings rather than every night",
+        "Explore afternoon snacks at bakeries instead of sit-down tea salons"
+      ]
+    },
+    "comfort": {
+      "name": "Comfort & Fine Dining Plan",
+      "cost_per_person_per_day": 2600,
+      "description": "Premium multi-course dining, rooftop lounges, hotel gourmet buffets, chef specials, and seaside/hillview fine dining.",
+      "sample_meals": {
+        "breakfast": "Artisanal bakery espresso, smoothie bowl or lavish hotel buffet (INR 500)",
+        "lunch": "Fine-dining heritage restaurant or coastal culinary experience (INR 1000)",
+        "dinner": "Rooftop lounge multi-course dinner with specialty beverages and dessert (INR 1100)"
+      },
+      "saving_tips": [
+        "Mix premium dinners with leisurely cafe lunches to maintain high culinary variety",
+        "Inquire about dining credits or package discounts at resort restaurants",
+        "Choose local estate-grown coffee and regional wines"
+      ]
+    }
+  }
+}

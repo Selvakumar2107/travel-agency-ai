@@ -1,0 +1,981 @@
+[
+  {
+    "id": "pkg-ooty-economy",
+    "destination_id": "ooty",
+    "destination_name": "Ooty",
+    "name": "Ooty Nilgiri Budget Explorer",
+    "category": "economy",
+    "duration_days": 3,
+    "num_nights": 2,
+    "tagline": "Budget-friendly escape amidst misty hills and tea gardens",
+    "image_url": "https://images.unsplash.com/photo-1589182373726-e4f658ab50f0?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "ooty-budget-1",
+    "hotel_name": "Pine Haven Guest Lodge",
+    "room_tier": "budget",
+    "room_type": "Comfort Economy Room (Demo)",
+    "transport_mode": "Train / Express Bus",
+    "transport_tier": "shared",
+    "meal_plan": "Economy Food Plan (Local Dining & Tea)",
+    "food_tier": "economy",
+    "included_activities": [
+      "Government Botanical Gardens & Rose Garden Stroll",
+      "Ooty Lake Public Promenade Walk"
+    ],
+    "optional_activities": [
+      "Nilgiri Mountain Toy Train Heritage Experience"
+    ],
+    "inclusions": [
+      "Round-trip Express Bus / Train transit from Bangalore",
+      "2 Nights stay at Pine Haven Guest Lodge (Standard Economy)",
+      "Daily wholesome regional breakfast & tea",
+      "Shared local sightseeing transfers",
+      "Botanical Garden entry passes"
+    ],
+    "exclusions": [
+      "Specialty fine dining & room service",
+      "Toy Train tickets (optional add-on)",
+      "Personal laundry and tips",
+      "Camera & video shooting permits"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 48 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-ooty-comfort",
+    "destination_id": "ooty",
+    "destination_name": "Ooty",
+    "name": "Ooty Misty Valley Comfort Retreat",
+    "category": "comfort",
+    "duration_days": 3,
+    "num_nights": 2,
+    "tagline": "Delightful tea plantation resort stay with AC transport and guided sightseeing",
+    "image_url": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "ooty-standard-1",
+    "hotel_name": "Nilgiri Misty Valley Resort",
+    "room_tier": "standard",
+    "room_type": "Deluxe Garden Room (Demo)",
+    "transport_mode": "Fast Express AC Train / Intercity Cab",
+    "transport_tier": "standard",
+    "meal_plan": "Standard Dining Plan (Breakfast Included)",
+    "food_tier": "standard",
+    "included_activities": [
+      "Nilgiri Mountain Toy Train Heritage Experience",
+      "Doddabetta Peak & Tea Factory Experience",
+      "Government Botanical Gardens & Rose Garden Stroll"
+    ],
+    "optional_activities": [
+      "Private Nilgiri Forest Jeep Safari & Avalanche Lake"
+    ],
+    "inclusions": [
+      "Round-trip AC Train / Point-to-Point Cab",
+      "2 Nights stay at Nilgiri Misty Valley Resort",
+      "Daily buffet breakfast & dinner allowance",
+      "Toy Train tickets included",
+      "Dedicated App-based local sightseeing cab",
+      "All monument entry fees & guided commentary"
+    ],
+    "exclusions": [
+      "Jeep Safari add-on",
+      "Alcoholic beverages & minibar",
+      "Personal shopping"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 48 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-ooty-premium",
+    "destination_id": "ooty",
+    "destination_name": "Ooty",
+    "name": "Ooty Royal Heritage Fernhill Luxury",
+    "category": "premium",
+    "duration_days": 4,
+    "num_nights": 3,
+    "tagline": "Colonial palace luxury with private chauffeur and curated tea estate tastings",
+    "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "ooty-premium-1",
+    "hotel_name": "The Heritage Fernhill Palace",
+    "room_tier": "premium",
+    "room_type": "Royal Heritage Suite (Demo)",
+    "transport_mode": "Private Chauffeur Car / Dedicated Sedan",
+    "transport_tier": "private",
+    "meal_plan": "Comfort & Fine Dining Plan (All Meals Included)",
+    "food_tier": "comfort",
+    "included_activities": [
+      "Nilgiri Mountain Toy Train Heritage Experience",
+      "Doddabetta Peak & Tea Factory Experience",
+      "Private Nilgiri Forest Jeep Safari & Avalanche Lake"
+    ],
+    "optional_activities": [
+      "Exclusive High-Tea & Colonial Heritage Walk"
+    ],
+    "inclusions": [
+      "Door-to-door Private AC Chauffeur Sedan / SUV on disposal",
+      "3 Nights stay in Royal Heritage Suite at Fernhill Palace",
+      "All meals included: Gourmet breakfast, estate lunch & 3-course dinner",
+      "Private 4x4 Jeep Safari with forest guide",
+      "Butler service & priority reservations"
+    ],
+    "exclusions": [
+      "Spa wellness treatments",
+      "Imported spirits and specialty liquors"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 72 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-coorg-economy",
+    "destination_id": "coorg",
+    "destination_name": "Coorg",
+    "name": "Coorg Coffee Trails Budget Explorer",
+    "category": "economy",
+    "duration_days": 3,
+    "num_nights": 2,
+    "tagline": "Aromatic coffee plantation homestay with waterfalls and scenic viewpoints",
+    "image_url": "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "coorg-budget-1",
+    "hotel_name": "Coffee Country Homestay",
+    "room_tier": "budget",
+    "room_type": "Comfort Economy Room (Demo)",
+    "transport_mode": "Train / Express Bus",
+    "transport_tier": "shared",
+    "meal_plan": "Economy Food Plan (Authentic Kodava Home Meals)",
+    "food_tier": "economy",
+    "included_activities": [
+      "Abbey Falls Nature Trail & Suspension Bridge",
+      "Raja's Seat Sunset Pavilion & Musical Fountain"
+    ],
+    "optional_activities": [
+      "Dubare Elephant Camp River Rafting & Bathing"
+    ],
+    "inclusions": [
+      "Round-trip semi-sleeper bus transit",
+      "2 Nights stay at Coffee Country Homestay",
+      "Home-cooked traditional breakfast",
+      "Abbey Falls and Raja's Seat entry tickets"
+    ],
+    "exclusions": [
+      "Lunch and dinner expenses",
+      "Dubare river rafting fees",
+      "Personal purchases of spices and coffee"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 48 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-coorg-comfort",
+    "destination_id": "coorg",
+    "destination_name": "Coorg",
+    "name": "Coorg Spicewood Plantation Comfort",
+    "category": "comfort",
+    "duration_days": 3,
+    "num_nights": 2,
+    "tagline": "Scenic canopy resort with guided plantation walks and AC car transfers",
+    "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "coorg-standard-1",
+    "hotel_name": "Spicewood Plantation Retreat",
+    "room_tier": "standard",
+    "room_type": "Deluxe Garden Room (Demo)",
+    "transport_mode": "Fast Express AC Train / Intercity Cab",
+    "transport_tier": "standard",
+    "meal_plan": "Standard Dining Plan (Breakfast Included)",
+    "food_tier": "standard",
+    "included_activities": [
+      "Dubare Elephant Camp River Experience",
+      "Organic Coffee & Spice Plantation Guided Walk",
+      "Abbey Falls Nature Trail & Suspension Bridge"
+    ],
+    "optional_activities": [
+      "Mandalpatti 4x4 Off-Road Jeep Safari"
+    ],
+    "inclusions": [
+      "Round-trip AC Cab from Bangalore / Mysore",
+      "2 Nights at Spicewood Plantation Retreat",
+      "Complimentary breakfast & evening bonfire",
+      "Dubare Elephant interaction passes",
+      "Guided coffee tasting walk"
+    ],
+    "exclusions": [
+      "Jeep Safari to Mandalpatti",
+      "Lunch meals outside hotel"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 48 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-coorg-premium",
+    "destination_id": "coorg",
+    "destination_name": "Coorg",
+    "name": "Coorg Tamara Rainforest Royal Escape",
+    "category": "premium",
+    "duration_days": 4,
+    "num_nights": 3,
+    "tagline": "Luxury rainforest villa living with private Mandalpatti safari and fine dining",
+    "image_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "coorg-premium-1",
+    "hotel_name": "The Tamara Coorg Luxury Resort",
+    "room_tier": "premium",
+    "room_type": "Royal Heritage Suite (Demo)",
+    "transport_mode": "Private Chauffeur Car / Dedicated Sedan",
+    "transport_tier": "private",
+    "meal_plan": "Comfort & Fine Dining Plan (All Meals Included)",
+    "food_tier": "comfort",
+    "included_activities": [
+      "Mandalpatti 4x4 Off-Road Jeep Safari",
+      "Organic Coffee & Spice Plantation Guided Walk",
+      "Dubare Elephant Camp River Experience"
+    ],
+    "optional_activities": [
+      "Private Ayurveda Spa Therapy Session"
+    ],
+    "inclusions": [
+      "Dedicated Private Chauffeur SUV throughout the trip",
+      "3 Nights luxury villa stay at The Tamara Coorg",
+      "All meals: Chef curated Kodava gourmet dining",
+      "Exclusive private 4x4 Mandalpatti sunrise safari",
+      "Plantation trek with senior estate botanist"
+    ],
+    "exclusions": [
+      "Ayurveda wellness packages",
+      "Specialty vintage wine cellar orders"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 72 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-mysuru-economy",
+    "destination_id": "mysuru",
+    "destination_name": "Mysuru",
+    "name": "Mysuru Heritage & Royal Palaces Budget",
+    "category": "economy",
+    "duration_days": 2,
+    "num_nights": 1,
+    "tagline": "Quick cultural heritage weekend getaway with royal palace illumination",
+    "image_url": "https://images.unsplash.com/photo-1600100397608-f010f443b745?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "mysuru-budget-1",
+    "hotel_name": "Chamundi Residency",
+    "room_tier": "budget",
+    "room_type": "Comfort Economy Room (Demo)",
+    "transport_mode": "Train / Express Bus",
+    "transport_tier": "shared",
+    "meal_plan": "Economy Food Plan (Mylari Dosa & South Indian Thali)",
+    "food_tier": "economy",
+    "included_activities": [
+      "Mysore Palace Guided Heritage Tour",
+      "Chamundi Hill Temple Viewpoint"
+    ],
+    "optional_activities": [
+      "Brindavan Gardens Musical Fountain Show"
+    ],
+    "inclusions": [
+      "Round-trip Superfast Express Train tickets",
+      "1 Night stay at Chamundi Residency",
+      "Traditional South Indian breakfast",
+      "Mysore Palace entry passes"
+    ],
+    "exclusions": [
+      "Palace audio guides",
+      "Brindavan gardens entry & cab",
+      "Shopping for Mysore Silk & Sandalwood"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 24 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-mysuru-comfort",
+    "destination_id": "mysuru",
+    "destination_name": "Mysuru",
+    "name": "Mysuru Royal Orchid Comfort Tour",
+    "category": "comfort",
+    "duration_days": 3,
+    "num_nights": 2,
+    "tagline": "Comfortable heritage stay with AC transfers and Srirangapatna historical excursion",
+    "image_url": "https://images.unsplash.com/photo-1590053343467-33a7f80f682f?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "mysuru-standard-1",
+    "hotel_name": "Royal Orchid Metropole",
+    "room_tier": "standard",
+    "room_type": "Deluxe Garden Room (Demo)",
+    "transport_mode": "Fast Express AC Train / Intercity Cab",
+    "transport_tier": "standard",
+    "meal_plan": "Standard Dining Plan (Breakfast Included)",
+    "food_tier": "standard",
+    "included_activities": [
+      "Mysore Palace Guided Heritage Tour",
+      "Srirangapatna Historic Island Excursion",
+      "Brindavan Gardens Musical Fountain Show"
+    ],
+    "optional_activities": [
+      "Devaraja Market Walking Food & Spice Tour"
+    ],
+    "inclusions": [
+      "Round-trip AC Shatabdi Train / Cab",
+      "2 Nights stay at Royal Orchid Metropole",
+      "Daily buffet breakfast & dinner credit",
+      "Local AC city cab for all sightseeing",
+      "All palace and garden entry tickets"
+    ],
+    "exclusions": [
+      "Personal silk saree shopping",
+      "Lunches outside hotel"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 48 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-mysuru-premium",
+    "destination_id": "mysuru",
+    "destination_name": "Mysuru",
+    "name": "Mysuru Lalitha Mahal Palace Grandeur",
+    "category": "premium",
+    "duration_days": 3,
+    "num_nights": 2,
+    "tagline": "Live like royalty in a historic white Italianate palace with private chauffeur",
+    "image_url": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "mysuru-premium-1",
+    "hotel_name": "Lalitha Mahal Palace Hotel",
+    "room_tier": "premium",
+    "room_type": "Royal Heritage Suite (Demo)",
+    "transport_mode": "Private Chauffeur Car / Dedicated Sedan",
+    "transport_tier": "private",
+    "meal_plan": "Comfort & Fine Dining Plan (All Meals Included)",
+    "food_tier": "comfort",
+    "included_activities": [
+      "Mysore Palace Guided Heritage Tour",
+      "Srirangapatna Historic Island Excursion",
+      "Brindavan Gardens Musical Fountain Show"
+    ],
+    "optional_activities": [
+      "Private High Tea & Royal Vintage Carriage Ride"
+    ],
+    "inclusions": [
+      "Private Mercedes/Innova Chauffeur on disposal",
+      "2 Nights stay in Viceroy Suite at Lalitha Mahal Palace",
+      "All meals: Royal banquet dining & high tea",
+      "VIP Palace access without queues",
+      "Storyteller historian guide throughout"
+    ],
+    "exclusions": [
+      "Specialty vintage wine orders",
+      "Helicopter joy ride (if opted)"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 72 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-pondicherry-economy",
+    "destination_id": "pondicherry",
+    "destination_name": "Pondicherry",
+    "name": "Pondicherry French Quarter Budget Stroll",
+    "category": "economy",
+    "duration_days": 3,
+    "num_nights": 2,
+    "tagline": "Colonial French streets, seaside promenade, and Auroville peaceful retreat",
+    "image_url": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "pondicherry-budget-1",
+    "hotel_name": "Auro Sunrise Heritage Homestay",
+    "room_tier": "budget",
+    "room_type": "Comfort Economy Room (Demo)",
+    "transport_mode": "Train / Express Bus",
+    "transport_tier": "shared",
+    "meal_plan": "Economy Food Plan (French Bakeries & Tamil Thali)",
+    "food_tier": "economy",
+    "included_activities": [
+      "Promenade Beach & Gandhi Memorial Walk",
+      "Auroville Visitor Centre & Matrimandir Viewpoint"
+    ],
+    "optional_activities": [
+      "Paradise Beach Backwater Boat Cruise"
+    ],
+    "inclusions": [
+      "Round-trip Express Bus transit",
+      "2 Nights stay at Auro Sunrise Heritage Homestay",
+      "Daily breakfast with freshly baked croissants",
+      "Matrimandir viewing pass"
+    ],
+    "exclusions": [
+      "Paradise Beach boat tickets",
+      "Dinner cafe meals"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 48 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-pondicherry-comfort",
+    "destination_id": "pondicherry",
+    "destination_name": "Pondicherry",
+    "name": "Pondicherry Promenade Sea-View Comfort",
+    "category": "comfort",
+    "duration_days": 3,
+    "num_nights": 2,
+    "tagline": "Sea-facing boutique hotel with French cafe culture and Paradise beach excursion",
+    "image_url": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "pondicherry-standard-1",
+    "hotel_name": "The Promenade Sea-Facing Hotel",
+    "room_tier": "standard",
+    "room_type": "Deluxe Garden Room (Demo)",
+    "transport_mode": "Fast Express AC Train / Intercity Cab",
+    "transport_tier": "standard",
+    "meal_plan": "Standard Dining Plan (Breakfast Included)",
+    "food_tier": "standard",
+    "included_activities": [
+      "Promenade Beach & Gandhi Memorial Walk",
+      "Auroville Visitor Centre & Matrimandir Viewpoint",
+      "Paradise Beach Backwater Boat Cruise"
+    ],
+    "optional_activities": [
+      "Scuba Diving / Surfing Trial Session"
+    ],
+    "inclusions": [
+      "Round-trip AC Intercity Cab",
+      "2 Nights at The Promenade (Sea-facing Room)",
+      "Daily buffet breakfast & cafe vouchers",
+      "Paradise Beach return boat ride",
+      "Local on-call AC transport"
+    ],
+    "exclusions": [
+      "Scuba diving session",
+      "Water sports rentals"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 48 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-pondicherry-premium",
+    "destination_id": "pondicherry",
+    "destination_name": "Pondicherry",
+    "name": "Pondicherry Palais de Mahe Luxury Sojourn",
+    "category": "premium",
+    "duration_days": 4,
+    "num_nights": 3,
+    "tagline": "Boutique CGH Earth French villa with courtyard pool and curated coastal gastronomy",
+    "image_url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "pondicherry-premium-1",
+    "hotel_name": "Palais de Mahe - CGH Earth",
+    "room_tier": "premium",
+    "room_type": "Royal Heritage Suite (Demo)",
+    "transport_mode": "Private Chauffeur Car / Dedicated Sedan",
+    "transport_tier": "private",
+    "meal_plan": "Comfort & Fine Dining Plan (All Meals Included)",
+    "food_tier": "comfort",
+    "included_activities": [
+      "Promenade Beach & Gandhi Memorial Walk",
+      "Auroville Visitor Centre & Matrimandir Viewpoint",
+      "Paradise Beach Backwater Boat Cruise"
+    ],
+    "optional_activities": [
+      "Private Catamaran Sunset Sailing Cruise"
+    ],
+    "inclusions": [
+      "Private Chauffeur luxury vehicle throughout",
+      "3 Nights luxury suite at Palais de Mahe",
+      "All meals: French Creole fine dining & coastal catch",
+      "VIP Matrimandir inner chamber pass",
+      "Private heritage walking tour with colonial historian"
+    ],
+    "exclusions": [
+      "Spa wellness treatments",
+      "Specialty imported wines"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 72 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-munnar-economy",
+    "destination_id": "munnar",
+    "destination_name": "Munnar",
+    "name": "Munnar Tea Hills Budget Escapade",
+    "category": "economy",
+    "duration_days": 3,
+    "num_nights": 2,
+    "tagline": "Verdant tea carpets, cascading waterfalls, and cool mountain breezes on a budget",
+    "image_url": "https://images.unsplash.com/photo-1593693397690-362ae9666ec2?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "munnar-budget-1",
+    "hotel_name": "Green Valley View Homestay",
+    "room_tier": "budget",
+    "room_type": "Comfort Economy Room (Demo)",
+    "transport_mode": "Train / Express Bus",
+    "transport_tier": "shared",
+    "meal_plan": "Economy Food Plan (Kerala Thali & Appam Stew)",
+    "food_tier": "economy",
+    "included_activities": [
+      "Mattupetty Dam & Eco Point Promenade",
+      "Tea Museum & Factory Processing Tour"
+    ],
+    "optional_activities": [
+      "Eravikulam National Park Nilgiri Tahr Safari"
+    ],
+    "inclusions": [
+      "Round-trip Ghats express bus transit",
+      "2 Nights stay at Green Valley View Homestay",
+      "Daily authentic Kerala breakfast",
+      "Tea Museum entrance and tea sample pack"
+    ],
+    "exclusions": [
+      "Eravikulam safari ticket",
+      "Speedboat hire at Mattupetty Dam"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 48 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-munnar-comfort",
+    "destination_id": "munnar",
+    "destination_name": "Munnar",
+    "name": "Munnar Cloud Valley Resort Comfort",
+    "category": "comfort",
+    "duration_days": 3,
+    "num_nights": 2,
+    "tagline": "Hilltop valley resort with Eravikulam Nilgiri Tahr safari and AC vehicle transfers",
+    "image_url": "https://images.unsplash.com/photo-1589182373726-e4f658ab50f0?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "munnar-standard-1",
+    "hotel_name": "Cloud Valley Hill Resort",
+    "room_tier": "standard",
+    "room_type": "Deluxe Garden Room (Demo)",
+    "transport_mode": "Fast Express AC Train / Intercity Cab",
+    "transport_tier": "standard",
+    "meal_plan": "Standard Dining Plan (Breakfast Included)",
+    "food_tier": "standard",
+    "included_activities": [
+      "Eravikulam National Park Nilgiri Tahr Safari",
+      "Tea Museum & Factory Processing Tour",
+      "Mattupetty Dam & Eco Point Promenade"
+    ],
+    "optional_activities": [
+      "Kolukkumalai Sunrise 4x4 Jeep Safari"
+    ],
+    "inclusions": [
+      "Round-trip AC Cab from Cochin / Coimbatore",
+      "2 Nights at Cloud Valley Hill Resort",
+      "Daily buffet breakfast & dinner",
+      "Eravikulam National Park safari entry",
+      "Tea tasting experience"
+    ],
+    "exclusions": [
+      "Kolukkumalai Jeep Safari",
+      "Boat ride fees at Mattupetty"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 48 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-munnar-premium",
+    "destination_id": "munnar",
+    "destination_name": "Munnar",
+    "name": "Munnar Windermere Estate Luxury Panorama",
+    "category": "premium",
+    "duration_days": 4,
+    "num_nights": 3,
+    "tagline": "High-altitude luxury plantation living with Kolukkumalai 4x4 sunrise adventure",
+    "image_url": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "munnar-premium-1",
+    "hotel_name": "Windermere Estate Hill Retreat",
+    "room_tier": "premium",
+    "room_type": "Royal Heritage Suite (Demo)",
+    "transport_mode": "Private Chauffeur Car / Dedicated Sedan",
+    "transport_tier": "private",
+    "meal_plan": "Comfort & Fine Dining Plan (All Meals Included)",
+    "food_tier": "comfort",
+    "included_activities": [
+      "Eravikulam National Park Nilgiri Tahr Safari",
+      "Tea Museum & Factory Processing Tour",
+      "Mattupetty Dam & Eco Point Promenade"
+    ],
+    "optional_activities": [
+      "Private High-Altitude Estate Picnic & Trek"
+    ],
+    "inclusions": [
+      "Private Chauffeur 4x4 SUV throughout the trip",
+      "3 Nights luxury plantation villa at Windermere Estate",
+      "All meals: Chef curated multi-course dining",
+      "Private Kolukkumalai sunrise tea safari",
+      "Dedicated naturalist guide for private birdwatching"
+    ],
+    "exclusions": [
+      "Ayurvedic massage therapies",
+      "Personal tea export consignments"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 72 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-jaipur-economy",
+    "destination_id": "jaipur",
+    "destination_name": "Jaipur",
+    "name": "Jaipur Pink City Heritage Budget",
+    "category": "economy",
+    "duration_days": 3,
+    "num_nights": 2,
+    "tagline": "Forts, palaces, bazaars, and royal Rajputana heritage on a smart budget",
+    "image_url": "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "jaipur-budget-1",
+    "hotel_name": "Umaid Haveli Heritage Style",
+    "room_tier": "budget",
+    "room_type": "Comfort Economy Room (Demo)",
+    "transport_mode": "Train / Express Bus",
+    "transport_tier": "shared",
+    "meal_plan": "Economy Food Plan (Dal Baati Churma & Lassi)",
+    "food_tier": "economy",
+    "included_activities": [
+      "Amer Fort Royal Palace Walking Tour",
+      "Hawa Mahal & City Palace Exterior Walk"
+    ],
+    "optional_activities": [
+      "Chokhi Dhani Cultural Village Dinner Experience"
+    ],
+    "inclusions": [
+      "Round-trip Express Train transit",
+      "2 Nights stay at Umaid Haveli",
+      "Traditional Rajasthani breakfast",
+      "Amer Fort entry ticket"
+    ],
+    "exclusions": [
+      "Elephant or jeep ride up Amer Fort",
+      "Chokhi Dhani entry ticket",
+      "Guide fees"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 48 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-jaipur-comfort",
+    "destination_id": "jaipur",
+    "destination_name": "Jaipur",
+    "name": "Jaipur Samode Haveli Comfort Experience",
+    "category": "comfort",
+    "duration_days": 3,
+    "num_nights": 2,
+    "tagline": "Traditional boutique haveli with Chokhi Dhani dinner and AC city transfers",
+    "image_url": "https://images.unsplash.com/photo-1590053343467-33a7f80f682f?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "jaipur-standard-1",
+    "hotel_name": "Samode Haveli Boutique Hotel",
+    "room_tier": "standard",
+    "room_type": "Deluxe Garden Room (Demo)",
+    "transport_mode": "Fast Express AC Train / Intercity Cab",
+    "transport_tier": "standard",
+    "meal_plan": "Standard Dining Plan (Breakfast Included)",
+    "food_tier": "standard",
+    "included_activities": [
+      "Amer Fort Royal Palace Walking Tour",
+      "City Palace & Jantar Mantar Observatory Guided Visit",
+      "Chokhi Dhani Cultural Village Dinner Experience"
+    ],
+    "optional_activities": [
+      "Nahargarh Fort Sunset Viewpoint Excursion"
+    ],
+    "inclusions": [
+      "Round-trip AC Train / Cab",
+      "2 Nights at Samode Haveli (Deluxe Room)",
+      "Daily royal buffet breakfast",
+      "All monument entry tickets (Amer, City Palace, Jantar Mantar)",
+      "Chokhi Dhani cultural village dinner entry & buffet",
+      "Dedicated AC cab for city tours"
+    ],
+    "exclusions": [
+      "Shopping at Johari Bazaar",
+      "Personal audio guides"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 48 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-jaipur-premium",
+    "destination_id": "jaipur",
+    "destination_name": "Jaipur",
+    "name": "Jaipur Rambagh Palace Royal Sovereign",
+    "category": "premium",
+    "duration_days": 4,
+    "num_nights": 3,
+    "tagline": "The Jewel of Jaipur — royal palace living with private chauffeur and sunset safari",
+    "image_url": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "jaipur-premium-1",
+    "hotel_name": "Rambagh Palace - The Grand Taj",
+    "room_tier": "premium",
+    "room_type": "Royal Heritage Suite (Demo)",
+    "transport_mode": "Private Chauffeur Car / Dedicated Sedan",
+    "transport_tier": "private",
+    "meal_plan": "Comfort & Fine Dining Plan (All Meals Included)",
+    "food_tier": "comfort",
+    "included_activities": [
+      "Amer Fort Royal Palace Walking Tour",
+      "City Palace & Jantar Mantar Observatory Guided Visit",
+      "Chokhi Dhani Cultural Village Dinner Experience"
+    ],
+    "optional_activities": [
+      "Hot Air Balloon Safari over Amber Fort"
+    ],
+    "inclusions": [
+      "Private Luxury Chauffeur Sedan / SUV on 24hr disposal",
+      "3 Nights in Royal Palace Suite at Rambagh Palace",
+      "All meals: Suvarna Mahal royal dining & verandah breakfasts",
+      "Private VIP palace access with royal historian",
+      "Traditional welcome with folk performers and garland"
+    ],
+    "exclusions": [
+      "Hot air balloon flight tickets",
+      "Jiva Spa luxury rituals"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 72 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-goa-economy",
+    "destination_id": "goa",
+    "destination_name": "Goa",
+    "name": "Goa Sunny Beaches & Shacks Budget",
+    "category": "economy",
+    "duration_days": 4,
+    "num_nights": 3,
+    "tagline": "Sun, sand, coastal beach shacks, and Old Goa churches on a fun budget",
+    "image_url": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "goa-budget-1",
+    "hotel_name": "Sea Breeze Beach Cottages",
+    "room_tier": "budget",
+    "room_type": "Comfort Economy Room (Demo)",
+    "transport_mode": "Train / Express Bus",
+    "transport_tier": "shared",
+    "meal_plan": "Economy Food Plan (Goan Fish Curry & Cafreal)",
+    "food_tier": "economy",
+    "included_activities": [
+      "Calangute & Baga Beach Sunset Stroll",
+      "Basilica of Bom Jesus & Old Goa Heritage Walk"
+    ],
+    "optional_activities": [
+      "Mandovi River Sunset Cruise"
+    ],
+    "inclusions": [
+      "Round-trip AC Volvo Bus / Train tickets",
+      "3 Nights stay in Sea Breeze Cottages near beach",
+      "Daily breakfast at beachside shack",
+      "Old Goa Church monument passes"
+    ],
+    "exclusions": [
+      "Water sports rides (banana boat, parasailing)",
+      "Mandovi river cruise tickets",
+      "Scooter rental fuel"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 48 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-goa-comfort",
+    "destination_id": "goa",
+    "destination_name": "Goa",
+    "name": "Goa Santana Beach Resort Comfort",
+    "category": "comfort",
+    "duration_days": 4,
+    "num_nights": 3,
+    "tagline": "Candolim beach resort with Mandovi sunset cruise and AC airport transfers",
+    "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "goa-standard-1",
+    "hotel_name": "Santana Beach Resort Candolim",
+    "room_tier": "standard",
+    "room_type": "Deluxe Garden Room (Demo)",
+    "transport_mode": "Fast Express AC Train / Intercity Cab",
+    "transport_tier": "standard",
+    "meal_plan": "Standard Dining Plan (Breakfast Included)",
+    "food_tier": "standard",
+    "included_activities": [
+      "Mandovi River Sunset Cruise & Cultural Show",
+      "Basilica of Bom Jesus & Old Goa Heritage Walk",
+      "Calangute & Baga Beach Sunset Stroll"
+    ],
+    "optional_activities": [
+      "Dudhsagar Waterfalls Jeep Safari"
+    ],
+    "inclusions": [
+      "Round-trip AC Cab from airport / railhead",
+      "3 Nights at Santana Beach Resort (Candolim Beach)",
+      "Daily buffet breakfast & pool access",
+      "Mandovi river cruise tickets with live Goan folk dance",
+      "Dedicated AC sightseeing cab for North & South Goa"
+    ],
+    "exclusions": [
+      "Dudhsagar waterfall jeep permit",
+      "Water sports packages"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 48 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-goa-premium",
+    "destination_id": "goa",
+    "destination_name": "Goa",
+    "name": "Goa Taj Exotica Coastal Grandeur",
+    "category": "premium",
+    "duration_days": 5,
+    "num_nights": 4,
+    "tagline": "5-star Benaulim beachfront luxury with private cabana dining and Dudhsagar safari",
+    "image_url": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "goa-premium-1",
+    "hotel_name": "Taj Exotica Resort & Spa Benaulim",
+    "room_tier": "premium",
+    "room_type": "Royal Heritage Suite (Demo)",
+    "transport_mode": "Private Chauffeur Car / Dedicated Sedan",
+    "transport_tier": "private",
+    "meal_plan": "Comfort & Fine Dining Plan (All Meals Included)",
+    "food_tier": "comfort",
+    "included_activities": [
+      "Mandovi River Sunset Cruise & Cultural Show",
+      "Dudhsagar Waterfalls & Spice Plantation Safari",
+      "Basilica of Bom Jesus & Old Goa Heritage Walk"
+    ],
+    "optional_activities": [
+      "Private Luxury Yacht Charter off Panaji"
+    ],
+    "inclusions": [
+      "Private Mercedes/BMW luxury chauffeur transfer & disposal",
+      "4 Nights in Luxury Villa Suite at Taj Exotica Benaulim",
+      "All meals: Miguel Arcanjo fine dining & beachside seafood",
+      "Private 4x4 Dudhsagar waterfall safari with spice lunch",
+      "Complimentary champagne sunset on arrival"
+    ],
+    "exclusions": [
+      "Private yacht charter fees",
+      "Jiva Spa luxury ayurvedic packages"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 72 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-rishikesh-economy",
+    "destination_id": "rishikesh",
+    "destination_name": "Rishikesh",
+    "name": "Rishikesh Yoga & Ganga Aarti Budget",
+    "category": "economy",
+    "duration_days": 3,
+    "num_nights": 2,
+    "tagline": "Serene riverside ashrams, evening Triveni Ghat aarti, and suspension bridges",
+    "image_url": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "rishikesh-budget-1",
+    "hotel_name": "Ganga View Ashram Homestay",
+    "room_tier": "budget",
+    "room_type": "Comfort Economy Room (Demo)",
+    "transport_mode": "Train / Express Bus",
+    "transport_tier": "shared",
+    "meal_plan": "Economy Food Plan (Pure Sattvic / Vegetarian Dining)",
+    "food_tier": "economy",
+    "included_activities": [
+      "Triveni Ghat Evening Maha Aarti Ceremony",
+      "Ram Jhula & Lakshman Jhula Suspension Bridge Stroll"
+    ],
+    "optional_activities": [
+      "Ganges White Water Rafting (Shivpuri to Muni Ki Reti)"
+    ],
+    "inclusions": [
+      "Round-trip Jan Shatabdi / Bus transit from Delhi",
+      "2 Nights stay at Ganga View Ashram Homestay",
+      "Wholesome vegetarian breakfast & herbal tea",
+      "Morning guided community yoga session"
+    ],
+    "exclusions": [
+      "White water river rafting gear & guide fees",
+      "Bungee jumping / zip line at Mohan Chatti",
+      "Dinner meals outside ashram"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 48 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-rishikesh-comfort",
+    "destination_id": "rishikesh",
+    "destination_name": "Rishikesh",
+    "name": "Rishikesh Aloha On The Ganges Comfort",
+    "category": "comfort",
+    "duration_days": 3,
+    "num_nights": 2,
+    "tagline": "Scenic riverfront resort with certified white-water rafting and yoga sessions",
+    "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "rishikesh-standard-1",
+    "hotel_name": "Aloha On The Ganges River Resort",
+    "room_tier": "standard",
+    "room_type": "Deluxe Garden Room (Demo)",
+    "transport_mode": "Fast Express AC Train / Intercity Cab",
+    "transport_tier": "standard",
+    "meal_plan": "Standard Dining Plan (Breakfast Included)",
+    "food_tier": "standard",
+    "included_activities": [
+      "Ganges White Water Rafting Experience (16 KM)",
+      "Triveni Ghat Evening Maha Aarti Ceremony",
+      "Beatles Ashram (Chaurasi Kutia) Heritage Visit"
+    ],
+    "optional_activities": [
+      "Neer Garh Waterfall Jungle Trek"
+    ],
+    "inclusions": [
+      "Round-trip AC Cab from Dehradun airport / Haridwar",
+      "2 Nights stay at Aloha On The Ganges (Ganges View Room)",
+      "Daily healthy buffet breakfast & high-tea",
+      "16 KM White Water Rafting with certified safety gear",
+      "Beatles Ashram entry passes"
+    ],
+    "exclusions": [
+      "Extreme adventure sports (Bungee / Flying Fox)",
+      "Ayurvedic spa treatments"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 48 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  },
+  {
+    "id": "pkg-rishikesh-premium",
+    "destination_id": "rishikesh",
+    "destination_name": "Rishikesh",
+    "name": "Rishikesh Ananda In The Himalayas Sanctuary",
+    "category": "premium",
+    "duration_days": 4,
+    "num_nights": 3,
+    "tagline": "World-renowned wellness palace with bespoke ayurveda, yoga, and private rafting",
+    "image_url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1000&q=80",
+    "hotel_id": "rishikesh-premium-1",
+    "hotel_name": "Ananda In The Himalayas Palace Resort",
+    "room_tier": "premium",
+    "room_type": "Royal Heritage Suite (Demo)",
+    "transport_mode": "Private Chauffeur Car / Dedicated Sedan",
+    "transport_tier": "private",
+    "meal_plan": "Comfort & Fine Dining Plan (All Meals Included)",
+    "food_tier": "comfort",
+    "included_activities": [
+      "Ganges White Water Rafting Experience (Private Raft)",
+      "Triveni Ghat Evening Maha Aarti Ceremony",
+      "Beatles Ashram (Chaurasi Kutia) Heritage Visit"
+    ],
+    "optional_activities": [
+      "Private Ayurvedic Dosha Consultation & Signature Therapy"
+    ],
+    "inclusions": [
+      "Private Chauffeur luxury SUV transfer & disposal",
+      "3 Nights in Royal Palace Suite at Ananda in the Himalayas",
+      "All meals: Tailored Ayurvedic wellness gourmet gastronomy",
+      "Private River Rafting with personal rescue kayak",
+      "VIP Aarti seating at Parmarth Niketan / Triveni Ghat"
+    ],
+    "exclusions": [
+      "Exclusive multi-day detox packages",
+      "Helicopter charter transfers"
+    ],
+    "cancellation_policy": "Free demo cancellation up to 72 hours prior to check-in. Fully refundable.",
+    "is_refundable": true,
+    "is_demo_data": true
+  }
+]
